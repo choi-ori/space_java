@@ -1,0 +1,7 @@
+import java.util.Scanner;
+
+public class ExRectangle {
+	public static void main(String[] args) {
+		
+	}
+}

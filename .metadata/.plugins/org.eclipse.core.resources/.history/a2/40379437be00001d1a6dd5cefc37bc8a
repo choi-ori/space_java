@@ -1,0 +1,11 @@
+package chapter02;
+
+public class CharExample {
+	public static void main(String[] args) {
+		char c1='A';
+		char c2=64;  //숫자 65가 문자로 변환되어서 A로 출력
+		
+		System.out.println(c1);
+		System.out.println(c2);
+	}
+}

@@ -1,0 +1,15 @@
+package chapter02;
+
+public class IntegerLiteralExample {
+	public static void main(String[] args) {
+		int var1=0b1011;      //2ÀÇ3½Â*1 + 2ÀÇ1½Â*1 + 2ÀÇ0½Â*1 = 8+2+1
+		int var2=0206;        //8ÀÇ2½Â*2 + 8ÀÇ0½Â*6 = 134
+		int var3=365;
+		int var4=0xB3;
+		
+		System.out.println("var1: " + var1);
+		System.out.println("var2: " + var2);
+		System.out.println("var3: " + var3);
+		System.out.println("var4: " + var4);
+	}
+}
